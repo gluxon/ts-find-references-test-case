@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "rootDir": "src",
+        "paths": {
+            "@ref/b": ["../b/src"]
+        }
+    },
+    "references": [
+        { "path": "../b" }
+    ]
+}

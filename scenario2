@@ -1,0 +1,3 @@
+{"seq":0,"type":"request","command":"open","arguments":{"file":"/Volumes/git/ts-find-references-example/packages/c/src/index.ts"}}
+{"seq":1,"type":"request","command":"open","arguments":{"file":"/Volumes/git/ts-find-references-example/packages/a/src/index.ts"}}
+{"seq":2,"type":"request","command":"references","arguments":{"file":"/Volumes/git/ts-find-references-example/packages/c/src/index.ts","line":1,"offset":14}}
